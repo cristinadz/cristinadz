@@ -1,4 +1,4 @@
-![My Image](banner.png)
+![My Image](banner2.png)
 
 <h2 align="center">queer latinx software developer</h2>
 
