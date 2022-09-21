@@ -9,6 +9,8 @@
 
 - ask me about... **react js, ruby on rails, my two dogs**
 
+- feel free to reach out: diazcristina.la@gmail.com
+
 <h3 align="left">connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/diaz-cristina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diaz-cristina" height="30" width="40" /></a>
