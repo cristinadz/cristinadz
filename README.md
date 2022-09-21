@@ -1,6 +1,6 @@
 ![My Image](banner.png)
 
-<h2 align="center">software developer looking for an entry lever role</h2>
+<h2 align="center">queer latinx software developer</h2>
 
 
 - recent flatiron grad, view my capstone project [here](https://dorphins.herokuapp.com/). 
