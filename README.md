@@ -3,7 +3,7 @@
 <h2 align="center">software developer looking for an entry lever role</h2>
 
 
-- recent flatiron grad, view my capstone project here. 
+- recent flatiron grad, view my capstone project [here](https://dorphins.herokuapp.com/). 
 
 - i’m currently learning **algos and databases**
 
