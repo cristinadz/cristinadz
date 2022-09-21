@@ -3,7 +3,7 @@
 <h2 align="center">queer latinx software developer</h2>
 
 
-- recent flatiron grad, view my capstone project [here](https://dorphins.herokuapp.com/). 
+- recent flatiron grad, view my latest mobile first project [here](https://dorphins.herokuapp.com/). 
 
 - i’m currently learning **algos and databases**
 
