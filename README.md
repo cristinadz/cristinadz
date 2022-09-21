@@ -1,10 +1,13 @@
 ![My Image](banner.png)
 
-<h4 align="center">i'm a software developer based in LA</h3>
+<h2 align="center">software developer looking for an entry lever role</h2>
 
-- i’m currently learning **swift and react native**
 
-- ask me about... **react js, ruby on rails, crochet**
+- recent flatiron grad, view my capstone project here. 
+
+- i’m currently learning **algos and databases**
+
+- ask me about... **react js, ruby on rails, my two dogs**
 
 <h3 align="left">connect with me:</h3>
 <p align="left">
