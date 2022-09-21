@@ -1,5 +1,5 @@
 ### Hi there 👋 
-## <a href="linkedin.com/diaz-cristina" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/linkedin_3536569" height="100" /></a>
+## <a href="https://www.linkedin.com/in/diaz-cristina/" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/linkedin_3536569?term=linked%20in&page=1&position=1&page=1&position=1&related_id=3536569&origin=search" height="100" /></a>
 <!--
 **cristinadz/cristinadz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
