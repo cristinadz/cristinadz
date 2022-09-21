@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="400" src="https://previews.dropbox.com/p/thumb/ABrduaKSzYZBOh2nSkoy61ml4J6wQsmzss9WUC6jX155dbrP8-Fkv_eS29S2j1cnUKELTFWy7Une2f0hBwkun4ZbIbgyP9w8ITCrIczFVUuVsqpxoQyvxF1is661pRGSxRZXqqup1zg3UhzTyT-LhAQgfRmBX0PojIgR7rYjq0r-7h6wigBzynZ5NtdbLKyeVTWzpmFbcr9tUoTJjhGvTZ4YLzfxzfGDeDNiqp-Dd6nZl4xmLBn7U4ZMg_QmmQFfgn5G2YtLNLmjwwufrXIQDrYAeIYf0RMV4RzneOjEt94JtrqOXe5dh0rnd2JC5meAUDREnAAToYaNK74pOTV82V7G4PfkiZheYCzbEiPg-vOeaCfZMSltyEFv7B3i0mh09FM/p.png">
+
 <h3 align="center">software developer based in LA</h3>
 
 - i’m currently learning **swift and react native**
