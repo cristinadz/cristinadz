@@ -3,7 +3,9 @@
 <h2 align="center">queer latinx software developer</h2>
 
 
-- recent flatiron grad, view my latest project (mobile-first) [here](https://dorphins.herokuapp.com/). 
+- recent grad looking for an entry-level software engineering role.
+
+- view my portfolio [here](www.cristinacode.com). 
 
 - i’m currently brushing up on **algos and databases**
 
