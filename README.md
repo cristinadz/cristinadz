@@ -5,10 +5,6 @@
 
 - recent grad looking for an entry-level software engineering role.
 
-- view my portfolio [here](www.cristinacode.com). 
-
-- i’m currently brushing up on **algos and databases**
-
 - ask me about... **react js, ruby on rails, my two dogs**
 
 - feel free to reach out: diazcristina.la@gmail.com
